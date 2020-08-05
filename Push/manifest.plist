@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://callyng.github.io/Push/Test.ipa</string>
+					<string>https://callyng.github.io/Push/LionPortal.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://callyng.github.io/Push/push57.png</string>
+					<string>https://callyng.github.io/Push/lion57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://callyng.github.io/Push/push512.png</string>
+					<string>https://callyng.github.io/Push/lion512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -37,39 +37,8 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Push</string>
+				<string>LionApp</string>
 			</dict>
-			<key>thinned-assets</key>
-			<array>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>sg.edu.nyp.sit.lionapp</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://callyng.github.io/Push/Test.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone12,1</string>
-						<string>iPhone11,8</string>
-					</array>
-				</dict>
-			</array>
 		</dict>
 	</array>
 </dict>
