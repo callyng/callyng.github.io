@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/home/work/SAF%20LionPortal/Push/Push-FB9B4060-CFF5-45BD-BCF0-D005CFF2FEFB.ipa</string>
+					<string>https://callyng.github.io/Push/Push-FB9B4060-CFF5-45BD-BCF0-D005CFF2FEFB.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/mg9rbreapw5wnbv/push-app-icon-1024.png?dl=0</string>
+					<string>https://callyng.github.io/Push/push57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/mg9rbreapw5wnbv/push-app-icon-1024.png?dl=0</string>
+					<string>https://callyng.github.io/Push/push512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/home/work/SAF%20LionPortal/Push/Push-FB9B4060-CFF5-45BD-BCF0-D005CFF2FEFB.ipa</string>
+					<string>https://callyng.github.io/Push/Push-FB9B4060-CFF5-45BD-BCF0-D005CFF2FEFB.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
