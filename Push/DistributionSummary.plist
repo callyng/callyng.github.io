@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Push.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0FE53BB74779B91AFACADD20E68E46268E93874D</string>
+				<key>dateExpires</key>
+				<string>8/2/23</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>43D4T5Z3A4.sg.edu.nyp.sit.lionapp</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>43D4T5Z3A4</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Push.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b46db053-a538-44e0-8785-94070176ef78</string>
+				<key>name</key>
+				<string>In House Distribution</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>43D4T5Z3A4</string>
+				<key>name</key>
+				<string>Nanyang Polytechnic (Unknown Type - Unknown Username - 43D4T5Z3A4)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

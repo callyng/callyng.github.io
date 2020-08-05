@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://www.dropbox.com/home/work/SAF%20LionPortal/Push/Apps/Push.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://www.dropbox.com/s/mg9rbreapw5wnbv/push-app-icon-1024.png?dl=0</string>
+		<key>fullSizeImageURL</key>
+		<string>https://www.dropbox.com/s/mg9rbreapw5wnbv/push-app-icon-1024.png?dl=0</string>
+	</dict>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>sg.edu.nyp.sit.lionapp</key>
+		<string>In House Distribution</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Apple Distribution</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>43D4T5Z3A4</string>
+	<key>thinning</key>
+	<string>iPhone12,1</string>
+</dict>
+</plist>

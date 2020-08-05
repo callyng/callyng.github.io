@@ -1,0 +1,8 @@
+
+App Thinning Size Report for All Variants of Push
+
+Variant: Push-FB9B4060-CFF5-45BD-BCF0-D005CFF2FEFB.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 13.0] and [device: iPhone11,8, os-version: 13.0]
+App + On Demand Resources size: 56 KB compressed, 157 KB uncompressed
+App size: 56 KB compressed, 157 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
